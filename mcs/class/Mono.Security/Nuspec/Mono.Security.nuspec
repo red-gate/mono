@@ -10,6 +10,7 @@
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<description>A backport of Mono.Security for the NGit backport to use</description>
 		<copyright>Copyright 2015</copyright>
+		<projectUrl>https://github.com/red-gate/mono</projectUrl>
 	</metadata>
 	<files>
 		<file src="Build\Mono.Security.dll" target="lib" />
