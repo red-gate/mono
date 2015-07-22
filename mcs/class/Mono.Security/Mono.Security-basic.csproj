@@ -8,7 +8,7 @@
     <ProjectGuid>{4615469E-37C9-4D64-9231-67594EA75E4F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <NoWarn>1699,1030</NoWarn>
-    <OutputPath>./../../class/lib/basic</OutputPath>
+    <OutputPath>Build</OutputPath>
     <NoStdLib>False</NoStdLib>
     <NoConfig>True</NoConfig>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
