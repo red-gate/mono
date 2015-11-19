@@ -16,5 +16,6 @@
 		<file src="Build\Mono.Security.dll" target="lib" />
 		<file src="Build\Mono.Security.pdb" target="lib" />
 		<file src="LICENSE" target="App_Readme\Mono.Security.license.txt" />
+		<file src="Install\WiX2\Source Files\Export\RedGate.ThirdParty.Mono.Security.wxs" target="wix2" />
 	</files>
 </package>
