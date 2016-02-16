@@ -13,6 +13,7 @@
 		<projectUrl>https://github.com/red-gate/mono</projectUrl>
 	</metadata>
 	<files>
+		<file src="Nuspec\RedGate.ThirdParty.Mono.Security.targets" target="build" />
 		<file src="Build\Mono.Security.dll" target="lib" />
 		<file src="Build\Mono.Security.pdb" target="lib" />
 		<file src="LICENSE.md" target="App_Readme\Mono.Security.license.md" />
